@@ -1,2 +1,1 @@
-Hi, I’m Evgeniya Sorokina, QA Engineer.
-I’m currently learning developing.
+Hi, I’m Evgeniya Sorokina!
